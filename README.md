@@ -76,10 +76,8 @@ If you'd like to contribute to the project:
 
 Feel free to reach out with any questions or suggestions:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: your-mayurmore6468@gmail.com
+- **GitHub**: [mayurmore6468](https://github.com/mayurmore6468)
 
 Thank you for checking out the Movie App!
-```
 
-Replace placeholders like `your-username` and `your-email@example.com` with your actual GitHub username and email address. Let me know if you need any adjustments!
